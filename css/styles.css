@@ -8,17 +8,17 @@
 body {
 	font-family: "Poiret One", sans-serif;
 	color: #202030;
-	background-color: #f8f8fc;
+	background-image:url("../../justine website/images/water.png");
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #F1A8E5;
+    background-color: #DBC2EC;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #F9F8F5;
 }
 
 .resume-aside {
@@ -61,4 +61,7 @@ body {
   font-family: "Poiret One", sans-serif;
   font-weight: 400;
   font-style: normal;
+}
+.justinebackground {
+	background-image: url("../../justine website/images/water.png")
 }
