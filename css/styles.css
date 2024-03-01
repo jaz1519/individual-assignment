@@ -69,3 +69,7 @@ body {
 .justineshadow { 
  text-shadow: 2px 2px 5px blue;
 }
+
+.justinetextcolor {
+	color: #7528E5
+}
