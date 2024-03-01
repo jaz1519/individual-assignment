@@ -8,7 +8,7 @@
 body {
 	font-family: "Poiret One", sans-serif;
 	color: #202030;
-	background-image:url("../../justine website/images/water.png");
+	background-color: #A7AAEC;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
@@ -64,4 +64,8 @@ body {
 }
 .justinebackground {
 	background-image: url("../../justine website/images/water.png")
+}
+
+.justineshadow { 
+ text-shadow: 2px 2px 5px blue;
 }
